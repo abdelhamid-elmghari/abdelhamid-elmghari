@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>🐍 Contribution Graph Activity</h3>
+  <h3>ELMGHARI ABDELHAMID</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
 
