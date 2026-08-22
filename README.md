@@ -12,11 +12,6 @@
 
 <div align="center">
   
-  <p>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://komarev.com/ghpvc/?username=abdelhamid-elmghari&icon=0&color=00F2FE" alt="Profile Views" />
-    </a>
-  </p>
 
   <p style="color: #64748b; font-size: 0.85rem;">
     <i>"Building intelligent systems with code, curiosity, and neural models."</i>
