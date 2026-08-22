@@ -1,3 +1,34 @@
+<div align="center">
+  <h3>🐍 Contribution Graph Activity</h3>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
+
+---
+
+<!-- ======================== 09. DEV QUOTE & VISITOR COUNTER ======================== -->
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  
+  <p>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://komarev.com/ghpvc/?username=abdelhamid-elmghari&icon=0&color=00F2FE" alt="Profile Views" />
+    </a>
+  </p>
+
+  <p style="color: #64748b; font-size: 0.85rem;">
+    <i>"Building intelligent systems with code, curiosity, and neural models."</i>
+  </p>
+  
+  <p style="color: #475569; font-size: 0.75rem;">
+    © 2026 Abdelhamid Elmghari • Powered by Cyber Dark Neon Aesthetics
+  </p>
+</div>
 
 ## About Me
 
